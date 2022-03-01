@@ -1,0 +1,14 @@
+C:\Users\hieu3\source\repos\Test\Test\bin\Debug\net6.0\EX1.exe
+C:\Users\hieu3\source\repos\Test\Test\bin\Debug\net6.0\EX1.deps.json
+C:\Users\hieu3\source\repos\Test\Test\bin\Debug\net6.0\EX1.runtimeconfig.json
+C:\Users\hieu3\source\repos\Test\Test\bin\Debug\net6.0\EX1.dll
+C:\Users\hieu3\source\repos\Test\Test\bin\Debug\net6.0\ref\EX1.dll
+C:\Users\hieu3\source\repos\Test\Test\bin\Debug\net6.0\EX1.pdb
+C:\Users\hieu3\source\repos\Test\Test\obj\Debug\net6.0\EX1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieu3\source\repos\Test\Test\obj\Debug\net6.0\EX1.AssemblyInfoInputs.cache
+C:\Users\hieu3\source\repos\Test\Test\obj\Debug\net6.0\EX1.AssemblyInfo.cs
+C:\Users\hieu3\source\repos\Test\Test\obj\Debug\net6.0\EX1.csproj.CoreCompileInputs.cache
+C:\Users\hieu3\source\repos\Test\Test\obj\Debug\net6.0\EX1.dll
+C:\Users\hieu3\source\repos\Test\Test\obj\Debug\net6.0\ref\EX1.dll
+C:\Users\hieu3\source\repos\Test\Test\obj\Debug\net6.0\EX1.pdb
+C:\Users\hieu3\source\repos\Test\Test\obj\Debug\net6.0\EX1.genruntimeconfig.cache
